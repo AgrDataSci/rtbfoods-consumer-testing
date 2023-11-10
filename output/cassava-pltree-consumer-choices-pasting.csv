@@ -1,0 +1,7 @@
+"Node","Group","","Estimate","Std. Error","z value","Pr(>|z|)",""
+2,"Country = Cameroon","(Intercept)",0,NA,NA," NA",""
+2,"Country = Cameroon","SwellingPower",7.62970663568905,0.881508057350274,8.65528859557244,"4.92e-18","***"
+2,"Country = Cameroon","Soluble",10.0343413030338,1.15941391918792,8.65466692866862,"4.94e-18","***"
+3,"Country = Nigeria","(Intercept)",0,NA,NA," NA",""
+3,"Country = Nigeria","SwellingPower",-9.71506362496496,0.911749482810313,-10.6554089781547,"1.65e-26","***"
+3,"Country = Nigeria","Soluble",-1.26336198891829,0.260793255864813,-4.844304676242,"1.27e-06","***"

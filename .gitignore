@@ -1,0 +1,24 @@
+# History files
+.Rhistory
+.Rapp.history
+.DS_Store
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# RStudio files
+.Rproj.user/
+
+*.png
+*.docx
+data/raw/
+gadm/ 
